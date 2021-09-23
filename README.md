@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo.
 - 👀 I’m interested in Clean Code and Design Pattern.
-- 🌱 I’m currently learning Gradle.
+- 🌱 I’m currently learning Virtual Environment.
 
 <!---
 leo0842/leo0842 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
