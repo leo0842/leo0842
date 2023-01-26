@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leo.
+- 👋 Hi, there!
 
 <!---
 leo0842/leo0842 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
